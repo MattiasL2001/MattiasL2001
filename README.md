@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently creating games in **[Godot Engine]**
+- 🌱 I’m currently creating games in Godot Engine
 
 ## Technologies & Tools
 
@@ -16,6 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-black?style=flat-square&logo=godot-engine)
 
 ## GitHub Stats
