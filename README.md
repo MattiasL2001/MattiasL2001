@@ -21,6 +21,8 @@
 
 ## GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiasL2001&layout=compact&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiasL2001&show_icons=true&theme=radical)
 
 
